@@ -31,5 +31,3 @@ print(type(e))
 print(f)
 print(type(f))
 f = float(f)
-
-
